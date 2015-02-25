@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sercan/Desktop/BWLWi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/sercan/Desktop/BWLWi/app/build/intermediates/pre-dexed/debug/classes-e3d5a8acd5b671005ec18b073acc097c1deaa81b.jar" />
+    </item>
+    <item
+        jar="/home/sercan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/sercan/Desktop/BWLWi/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-a13ddda1e9b1aa6464da11e51bd198f36e5bbf6f.jar" />
+    </item>
+    <item
+        jar="/home/sercan/Desktop/BWLWi/app/libs/androidasync-2.0.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c7c00692fbef12f4be7dd2eba79504a7af53767">
+        <dex dex="/home/sercan/Desktop/BWLWi/app/build/intermediates/pre-dexed/debug/androidasync-2.0.6-6a0a249b4b88147a6a5f7be02fb066feb6a56427.jar" />
+    </item>
+    <item
+        jar="/home/sercan/Desktop/BWLWi/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/sercan/Desktop/BWLWi/app/build/intermediates/pre-dexed/debug/classes-b8f1ca5767ec15ee5a9f2aa04e326e233fa80eb0.jar" />
+    </item>
+    <item
+        jar="/home/sercan/Desktop/BWLWi/app/libs/restfb-1.8.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e2cc4d2887005743f64964beae01e3dc8b058029">
+        <dex dex="/home/sercan/Desktop/BWLWi/app/build/intermediates/pre-dexed/debug/restfb-1.8.0-07ef1b97e2e9a4268d3f4c699661785831bddfc6.jar" />
+    </item>
+    <item
+        jar="/home/sercan/Desktop/BWLWi/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/sercan/Desktop/BWLWi/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-c9336bae212bee7ae40a0a015b5eb7b190508796.jar" />
+    </item>
+    <item
+        jar="/home/sercan/Desktop/BWLWi/app/libs/ion-2.0.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b5482a31054611c62f171e4c1e7f729bbb7818c">
+        <dex dex="/home/sercan/Desktop/BWLWi/app/build/intermediates/pre-dexed/debug/ion-2.0.6-58b8ad5f7c8d5e6f1e72e41db23436cc10192560.jar" />
+    </item>
+
+</items>

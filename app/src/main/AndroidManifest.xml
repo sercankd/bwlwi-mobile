@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="marmara.facebook.bwlwi" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:logo="@drawable/ic_launcher"
+        android:theme="@style/Theme.AppCompat.Light.DarkActionBar" >
+        <activity
+            android:name=".MainActivity"
+            android:icon="@drawable/ic_launcher"
+            android:label="@string/app_name"
+            android:logo="@drawable/ic_launcher">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".iletiler"
+            android:label="BWL-Wi">
+        </activity>
+        <activity
+            android:name=".yorumlar"
+            android:label="@string/title_activity_yorumlar"
+            android:parentActivityName=".iletiler" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="marmara.facebook.bwlwi.MainActivity" />
+        </activity>
+        <activity
+            android:name=".yucel_hoca"
+            android:label="Yücel hoca tweetleri"
+            android:parentActivityName=".iletiler" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="marmara.facebook.bwlwi.MainActivity" />
+        </activity>
+        <activity
+            android:name=".kayit_ol"
+            android:label="Kayıt Ol"
+            android:parentActivityName=".MainActivity" >
+        </activity>
+        <service android:name=".BWLWiService" ></service>
+    </application>
+
+</manifest>

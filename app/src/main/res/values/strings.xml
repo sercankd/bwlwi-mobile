@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BWL/Wi</string>
+    <string name="hakkinda">Hakkında</string>
+    <string name="title_activity_yorumlar">Yorumlar</string>
+
+    <string name="action_yucel">Yücel Hoca tweetleri</string>
+    <string name="action_settings">Settings</string>
+</resources>
